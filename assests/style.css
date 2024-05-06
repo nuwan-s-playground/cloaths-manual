@@ -47,4 +47,10 @@ h6{
     .col2{
         margin-left: 30px;
     }
+    h1{
+        text-align: center;
+        padding: 10px 0 10px 0;
+        color: brown;
+       
+    }
 }
